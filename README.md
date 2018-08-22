@@ -29,3 +29,5 @@ This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://w
 * [ARIA map research](https://stackoverflow.com/questions/50503677/proper-use-of-aria-role-for-google-maps)
 * Chat and reference via the FEND_Project_5 slack channel for the Udacity/Grown With Google Scholarship program
 * [Udacity](https://www.udacity.com) lessons on Accessibility, Service Workers, and Responsive Web Design
+* [W3.org](https://www.w3.org/TR/using-aria/)
+* [ARIA Cheatsheet](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html)
