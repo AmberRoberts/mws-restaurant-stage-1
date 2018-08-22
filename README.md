@@ -25,7 +25,7 @@ This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://w
 
 ### Resources Used
 
-ARIA color combinations chosen using the amazing [Colorsafe color picking tool](http://colorsafe.co/)
-[ARIA map research](https://stackoverflow.com/questions/50503677/proper-use-of-aria-role-for-google-maps)
-Chat and reference via the FEND_Project_5 slack channel for the Udacity/Grown With Google Scholarship program
-[Udacity](https://www.udacity.com) lessons on Accessibility, Service Workers, and Responsive Web Design
+* ARIA color combinations chosen using the amazing [Colorsafe color picking tool](http://colorsafe.co/)
+* [ARIA map research](https://stackoverflow.com/questions/50503677/proper-use-of-aria-role-for-google-maps)
+* Chat and reference via the FEND_Project_5 slack channel for the Udacity/Grown With Google Scholarship program
+* [Udacity](https://www.udacity.com) lessons on Accessibility, Service Workers, and Responsive Web Design
